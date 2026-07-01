@@ -47,9 +47,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 | Model | MAE | R² |
 |-------|-----|----|
-| Baseline (Linear Regression) | X.XX | 0.XX |
-| Random Forest | X.XX | 0.XX |
-| XGBoost | X.XX | 0.XX |
+| Random Forest | TBD | TBD |
+| XGBoost | TBD | TBD |
+| TabPFN | TBD | TBD |
 
 ---
 
