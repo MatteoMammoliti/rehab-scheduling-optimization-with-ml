@@ -31,33 +31,21 @@ Training regression models to estimate the target variable (`totalAssignments`).
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-Ensure you have Python 3.9+ and the necessary libraries installed:
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
-```
-
----
-
 ## 📊 Results
 
-| Model | MAE | R² |
-|-------|-----|----|
-| Random Forest | TBD | TBD |
-| XGBoost | TBD | TBD |
-| TabPFN | TBD | TBD |
+| Model | MAE | RMSE | R² |
+|-------|-----|----|----|
+| Random Forest | TBD | TBD | TBD |
+| XGBoost | TBD | TBD | TBD |
+| TabPFN | TBD | TBD | TBD |
 
 ---
 
 ## 👨‍🎓 Author
 
-**Matteo Mammoliti** & **Cristian Saverio Loria**
+**Matteo Mammoliti**
 
-- 🏛️ University: University of Calabria (Unical)
+- 🏛️ University: University of Calabria (Unical), Department of Mathematics and Computer Science (DeMaCs)
 - 🎓 Degree: Computer Science (*Informatica*)
 - 👨‍🏫 Supervisor: Prof. Marco Maratea
 - 👩‍🔬 Co-supervisor: Dr. Pierangela Bruno
