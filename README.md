@@ -65,28 +65,6 @@ flowchart LR
 
 ---
 
-## 📊 Results
-
-Models are evaluated separately for each ICS Maugeri facility.
-
-### 🏥 Castel Goffredo
-
-| Model         | MAE | RMSE | R² |
-|---------------|-----|------|----|
-| Random Forest | TBD | TBD  | TBD |
-| XGBoost       | TBD | TBD  | TBD |
-| TabPFN        | TBD | TBD  | TBD |
-
-### 🏥 Nervi
-
-| Model         | MAE | RMSE | R² |
-|---------------|-----|------|----|
-| Random Forest | TBD | TBD  | TBD |
-| XGBoost       | TBD | TBD  | TBD |
-| TabPFN        | TBD | TBD  | TBD |
-
----
-
 ## 👨‍🎓 Author
 
 **Matteo Mammoliti**
