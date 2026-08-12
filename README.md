@@ -1,5 +1,5 @@
 # 🧠 Machine Learning for Rehabilitation Scheduling
-### Predicting per-operator daily assignments to guide an Answer Set Programming solver
+### Predicting operator daily assignments to guide an Answer Set Programming solver
 
 [![Paper](https://img.shields.io/badge/Paper-HC@AIxIA-FF69B4.svg)](#-related-publication)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
@@ -18,11 +18,9 @@ The **Rehabilitation Scheduling Problem (RSP)** consists of assigning physiother
 patients and operators, and placing them in time and space, while satisfying the many clinical,
 logistic, temporal and contractual constraints of a healthcare facility. It is a problem traditionally 
 solved with **Answer Set Programming (ASP)**.  As the number of patients, operators and constraints grows, 
-the search space explodes and pure ASP becomes impractical. 
+the search space explodes and pure ASP becomes impractical. This work presents a **Machine Learning** pipeline 
+to estimate how many patients each operator will realistically be assigned in a day. 
 
-This work follows a **neuro-symbolic** approach: a **Machine Learning** pipeline estimates,
-*before* the solver runs, how many patients each operator will realistically
-be assigned in a day — both the **total** and the **breakdown by patient category**.
 ---
 
 ## 🏆 Related Publication
@@ -63,7 +61,7 @@ flowchart LR
 - 🏛️ **University:** University of Calabria (Unical) — Department of Mathematics and Computer Science (DeMaCs)
 - 🎓 **Degree:** Computer Science (*Informatica*)
 - 👨‍🏫 **Supervisor:** Prof. Marco Maratea
-- 👩‍🔬 **Co-supervisor:** Dr. Pierangela Bruno
+- 👩‍🔬 **Co-supervisor:** Dr.ssa. Pierangela Bruno
 
 ---
 
